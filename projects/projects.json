@@ -48,5 +48,15 @@
       "view": "#",
       "code": "https://github.com/arziqulovsamandar"
     }
+  },
+  {
+    "name": "Weather",
+    "desc": "A program for generating weather information. This website is written in vuejs. It provides detailed weather information.",
+    "image": "weather",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/arziqulovsamandar/Portfolie"
+    }
   }
 ]
