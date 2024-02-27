@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Uzum market",
+    "desc": "A Full-Stack clone of Vine Marketplace built using Nodejs and Vuejs.",
+    "image": "instagrammern1",
+    "category": "mern",
+    "links": {
+      "view": "https://mandarinshop.netlify.app/",
+      "code": "https://github.com/arziqulovsamandar/uzum-market"
+    }
+  },
+  {
+    "name": "Admin Panel",
+    "desc": "Admin control panel for web site. It uses Nodejs and Vuetfy",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/arziqulovsamandar/Admin-shop",
+      "code": "https://github.com/arziqulovsamandar/Admin-shop"
+    }
+  },
+  {
+    "name": "Nest-shop",
+    "desc": "Nest Shop online store is written with vuetfy and nodejs",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://nest-shoping.netlify.app/",
+      "code": "https://github.com/arziqulovsamandar/product"
+    }
+  },
+  {
+    "name": "ERP",
+    "desc": "Full-Stack Project Dashboard, a collection of projects built in Vuejs.",
+    "image": "reactprocjects",
+    "category": "lamp",
+    "links": {
+      "view": "https://github.com/arziqulovsamandar/najot-erp",
+      "code": "https://github.com/arziqulovsamandar/najot-erp"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/arziqulovsamandar"
+    }
+  }
+]
