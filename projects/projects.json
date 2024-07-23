@@ -58,5 +58,15 @@
       "view": "#",
       "code": "https://github.com/arziqulovsamandar/Weather"
     }
+  },
+  {
+    "name": "IT Center",
+    "desc": "A web site has been created for the IT Center where you can get information about the IT Center. This web site is written using html css and javascript",
+    "image": "ITCenter",
+    "category": "lamp",
+    "links": {
+      "view": "https://bulungur-it-center.netlify.app/",
+      "code": "https://github.com/arziqulovsamandar/IT-Center"
+    }
   }
 ]
