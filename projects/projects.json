@@ -68,5 +68,15 @@
       "view": "https://bulungur-it-center.netlify.app/",
       "code": "https://github.com/arziqulovsamandar/IT-Center"
     }
+  },
+  {
+    "name": "Stars Erath",
+    "desc": "A web site has been created for the Stars Erath where you can get information about the Stars Erath. This web site is written using html css and javascript",
+    "image": "StarsErath",
+    "category": "lamp",
+    "links": {
+      "view": "https://starsearth.netlify.app/",
+      "code": "https://github.com/arziqulovsamandar/stars"
+    }
   }
 ]
